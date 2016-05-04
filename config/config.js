@@ -337,9 +337,9 @@ exports.grouplist = [
 		broadcast: true
 	},
 	{
-		symbol: '✘',
-		id: "puto",
-		name: 'Puto',
+		symbol: '$',
+		id: "destacado",
+		name: 'Destacado',
 		inherit: ' ',
 		broadcast: true
 	},
