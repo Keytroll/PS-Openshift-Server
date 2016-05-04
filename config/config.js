@@ -338,8 +338,8 @@ exports.grouplist = [
 	},
 	{
 		symbol: '✘',
-		id: "reconocido",
-		name: "Reconocido",
+		id: "puto",
+		name: 'Puto',
 		inherit: ' ',
 		broadcast: true
 	},
